@@ -1,0 +1,1 @@
+# git-secrets-puppet-openstack
